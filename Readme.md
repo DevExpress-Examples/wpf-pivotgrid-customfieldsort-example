@@ -1,8 +1,8 @@
 # How to Use the CustomFieldSort Event and a Hidden Field to Sort the Visible Field
 
-This example demonstrates how to sort a field (_Sales Person_):
+This example demonstrates how to sort the _Sales Person_ field values:
 
-* in the [DataArea](https://docs.devexpress.com/WPF/7987) by the hidden data field (_SalesPersonId_)
+* in the PivotGridControl by the hidden data field (_SalesPersonId_)
 * in the [Filter Drop-Down](https://docs.devexpress.com/WPF/10932) by the person's last name 
 
 Check the _Enable custom sorting_ box to apply custom sorting algorithm  instead of the default alphabetical sorting order. In the picture below the _SalesPersonId_ value is appended to the name displayed in the _Sales Person_ field for better visibility.
